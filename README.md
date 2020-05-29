@@ -4,7 +4,7 @@ All configured using the nord color theme from artic estudio: https://github.com
 
 Homepage template from: https://github.com/Jaredk3nt/homepage
 
-
+homepagesearchpreview.png
 
 
 
@@ -14,6 +14,11 @@ Homepage template from: https://github.com/Jaredk3nt/homepage
 * Easy to configure by editing index.html and colors by editing styles.css
 * Put index.html, favicon.png and styles.css on the same dir, and add index.html path to your browser homepage, ex: /home/clans/homepage/index.html
 ![Nord arch wallpaper by me](https://raw.githubusercontent.com/clans1/homapageandi3wmconf/master/homepagepreview.png)
+ Search mode:
+![Nord arch wallpaper by me](https://raw.githubusercontent.com/clans1/homapageandi3wmconf/master/homepagesearchpreview.png
+)
+![Nord arch wallpaper by me](https://raw.githubusercontent.com/clans1/homapageandi3wmconf/master/homepagesearchpreview1.png
+)
 
 # Installing i3 config:
  
