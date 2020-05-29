@@ -1,1 +1,1 @@
-# homapageandi3wmconf
+# homapage and i3wm conf
