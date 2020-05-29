@@ -4,7 +4,6 @@ All configured using the nord color theme from artic estudio: https://github.com
 
 Homepage template from: https://github.com/Jaredk3nt/homepage
 
-homepagesearchpreview.png
 
 
 
