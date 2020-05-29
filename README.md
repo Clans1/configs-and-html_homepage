@@ -4,6 +4,8 @@ All configured using the nord color theme from artic estudio: https://github.com
 
 Homepage template from: https://github.com/Jaredk3nt/homepage
 
+i3status configured using using a web tool from: https://github.com/tlhunter/i3-i3status-dmenu-configurator
+
 
 
 
