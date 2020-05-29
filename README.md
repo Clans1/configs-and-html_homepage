@@ -19,7 +19,7 @@ Homepage template from: https://github.com/Jaredk3nt/homepage
 
 # Installing i3 config:
  
-* Dependences: i3gaps, terminator, i3wm, feh, scrot.
+* Dependences: i3gaps, terminator, i3wm, feh, gnome-screenshot.
 * Paste i3wmconfig on your .config/i3/ , and rename it to config.
 ![Nord arch wallpaper by me](https://raw.githubusercontent.com/clans1/homapageandi3wmconf/master/i3configpreview.png)
 ![Nord arch wallpaper by me](https://raw.githubusercontent.com/clans1/homapageandi3wmconf/master/i3configpreview2.png)
