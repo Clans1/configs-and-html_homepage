@@ -4,7 +4,7 @@ All configured using the nord color theme from artic estudio: https://github.com
 
  Installing homepage:
 
-* Put index.html, favcon.png and styles.css on the same dir, and add index.html path to your browser homepage, ex: /home/clans/homepage/index.html
+* Put index.html, favicon.png and styles.css on the same dir, and add index.html path to your browser homepage, ex: /home/clans/homepage/index.html
 
  Installing i3 config
  
