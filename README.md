@@ -9,7 +9,7 @@ All configured using the nord color theme from artic estudio: https://github.com
 
  Installing i3 config:
  
-* Dependences: i3gaps, terminator, i3wm
-* Paste i3wmconfig on your .config/i3/ , and rename it to config
+* Dependences: i3gaps, terminator, i3wm, feh, scrot.
+* Paste i3wmconfig on your .config/i3/ , and rename it to config.
 
 
