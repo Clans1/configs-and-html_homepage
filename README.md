@@ -15,7 +15,7 @@ Homepage template from: https://github.com/Jaredk3nt/homepage
 ![Nord arch wallpaper by me](https://raw.githubusercontent.com/clans1/homapageandi3wmconf/master/homepagepreview.png)
  Search mode:
 ![Nord arch wallpaper by me](https://raw.githubusercontent.com/clans1/homapageandi3wmconf/master/homepagesearchpreview.png)
-![Nord arch wallpaper by me](https://raw.githubusercontent.com/clans1/homapageandi3wmconf/master/homepagesearchpreview1.png)
+> Enter for search and caps lock to close the search mode
 
 # Installing i3 config:
  
