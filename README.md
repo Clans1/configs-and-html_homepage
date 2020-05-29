@@ -15,10 +15,14 @@ Homepage template from: https://github.com/Jaredk3nt/homepage
 * Put index.html, favicon.png and styles.css on the same dir, and add index.html path to your browser homepage, ex: /home/clans/homepage/index.html
 ![Nord arch wallpaper by me](https://raw.githubusercontent.com/clans1/homapageandi3wmconf/master/homepagepreview.png)
 
- Installing i3 config:
+# Installing i3 config:
  
 * Dependences: i3gaps, terminator, i3wm, feh, scrot.
 * Paste i3wmconfig on your .config/i3/ , and rename it to config.
+![Nord arch wallpaper by me](https://raw.githubusercontent.com/clans1/homapageandi3wmconf/master/homepagepreview.png)
+![Nord arch wallpaper by me](https://raw.githubusercontent.com/clans1/homapageandi3wmconf/master/homepagepreview.png)
+
+
 
 # Nord Arch wallpaper by me:
 ![Nord arch wallpaper by me](https://raw.githubusercontent.com/clans1/homapageandi3wmconf/master/i-run-arch-btw-wallpaper.png)
