@@ -13,7 +13,7 @@ Homepqage template from: https://github.com/Jaredk3nt/homepage
 * Dependences: i3gaps, terminator, i3wm, feh, scrot.
 * Paste i3wmconfig on your .config/i3/ , and rename it to config.
 
-# Nord Arch wallpaper by me
+# Nord Arch wallpaper by me:
 ![Nord arch wallpaper by me](https://raw.githubusercontent.com/clans1/homapageandi3wmconf/master/i-run-arch-btw-wallpaper.png)
 
 
