@@ -13,7 +13,19 @@ i3status configured using using a web tool from: https://github.com/tlhunter/i3-
 # Installing homepage:
 
 * Easy to configure by editing index.html and colors by editing styles.css
-* Put index.html, favicon.png and styles.css on the same dir, and add index.html path to your browser homepage, ex: /home/clans/homepage/index.html
+* create a dir on your home to your homepage
+
+(mkdir ~/homepage)
+
+* Put index.html, favicon.png and styles.css on that dir
+
+(sudo mv index.html ~/homepage/)
+
+(sudo mv favicon.png ~/homepage/)
+
+(sudo mv styles.css ~/homepage/)
+
+* add index.html path to your browser homepage, ex: ~/homepage/index.html
 ![Nord arch wallpaper by me](https://raw.githubusercontent.com/clans1/homapageandi3wmconf/master/homepagepreview.png)
  Search mode:
 ![Nord arch wallpaper by me](https://raw.githubusercontent.com/clans1/homapageandi3wmconf/master/homepagesearchpreview.png)
