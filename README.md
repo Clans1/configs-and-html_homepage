@@ -17,7 +17,7 @@ i3status configured using using a web tool from: https://github.com/tlhunter/i3-
 
 ( $ mkdir ~/homepage )
 
-* Put index.html, favicon.png and styles.css on that dir
+* Move index.html, favicon.png and styles.css on that dir
 
 ( $ sudo mv index.html ~/homepage/ )
 
@@ -35,7 +35,7 @@ i3status configured using using a web tool from: https://github.com/tlhunter/i3-
 # Installing i3 config:
  
 * Dependences: i3gaps, terminator, i3wm, feh, gnome-screenshot.
-* Paste i3wmconfig on your .config/i3/ and rename it to config 
+* Move i3wmconfig on your .config/i3/ and rename it to config 
 
 ( $ sudo mv i3wmconfig ~/.config/i3/config )
 
@@ -44,7 +44,7 @@ i3status configured using using a web tool from: https://github.com/tlhunter/i3-
 
 # Installing nord qutebrowser
 
-* Paste qutebrowserconfig.py on your .config/qutebrowser/ and rename it to config.py 
+* Move qutebrowserconfig.py on your .config/qutebrowser/ and rename it to config.py 
 
 ( $ sudo mv qutebrowserconfig.py ~/.conf/qutebrowser/config.py )
 
