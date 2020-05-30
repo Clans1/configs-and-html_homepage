@@ -42,3 +42,4 @@ to do:
 
 3 - screenshot and post my nord qutebrowser
 
+4 - update i3wmconfig
