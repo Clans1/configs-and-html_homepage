@@ -30,7 +30,7 @@ i3status configured using using a web tool from: https://github.com/tlhunter/i3-
 ![Nord arch wallpaper by me](https://raw.githubusercontent.com/clans1/homapageandi3wmconf/master/homepagepreview.png)
  Search mode:
 ![Nord arch wallpaper by me](https://raw.githubusercontent.com/clans1/homapageandi3wmconf/master/homepagesearchpreview.png)
-> Enter for search and caps lock to close the search mode
+> Press enter for search and you can press caps lock to leave the search mode
 
 ## Installing i3 config:
  
