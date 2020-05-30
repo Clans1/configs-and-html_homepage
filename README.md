@@ -13,7 +13,7 @@ i3status configured using using a web tool from: https://github.com/tlhunter/i3-
 # Installing homepage:
 
 * Easy to configure by editing index.html and colors by editing styles.css
-* create a dir on your home to your homepage
+* Create a dir on your home to your homepage
 
 ( $ mkdir ~/homepage )
 
@@ -25,7 +25,8 @@ i3status configured using using a web tool from: https://github.com/tlhunter/i3-
 
 ( $ sudo mv styles.css ~/homepage/ )
 
-* add index.html path to your browser homepage, ex: ~/homepage/index.html
+* Add index.html's path to your browser's homepage ( ~/homepage/index.html )
+
 ![Nord arch wallpaper by me](https://raw.githubusercontent.com/clans1/homapageandi3wmconf/master/homepagepreview.png)
  Search mode:
 ![Nord arch wallpaper by me](https://raw.githubusercontent.com/clans1/homapageandi3wmconf/master/homepagesearchpreview.png)
