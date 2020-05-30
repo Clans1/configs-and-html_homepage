@@ -34,13 +34,19 @@ i3status configured using using a web tool from: https://github.com/tlhunter/i3-
 # Installing i3 config:
  
 * Dependences: i3gaps, terminator, i3wm, feh, gnome-screenshot.
-* Paste i3wmconfig on your .config/i3/ and rename it to config (sudo mv i3wmconfig ~/.config/i3/config)
+* Paste i3wmconfig on your .config/i3/ and rename it to config 
+
+( $ sudo mv i3wmconfig ~/.config/i3/config )
+
 ![Nord arch wallpaper by me](https://raw.githubusercontent.com/clans1/homapageandi3wmconf/master/i3configpreview.png)
 ![Nord arch wallpaper by me](https://raw.githubusercontent.com/clans1/homapageandi3wmconf/master/i3configpreview2.png)
 
 # Installing nord qutebrowser
 
-* Paste qutebrowserconfig.py on your .config/qutebrowser/ and rename it to config.py (sudo mv qutebrowserconfig.py ~/.conf/qutebrowser/config.py)
+* Paste qutebrowserconfig.py on your .config/qutebrowser/ and rename it to config.py 
+
+( $ sudo mv qutebrowserconfig.py ~/.conf/qutebrowser/config.py )
+
 ![Nord arch wallpaper by me](https://raw.githubusercontent.com/clans1/homapageandi3wmconf/master/nordqutebrowser.png)
 ![Nord arch wallpaper by me](https://raw.githubusercontent.com/clans1/homapageandi3wmconf/master/nordqutebrowser1.png)
 
