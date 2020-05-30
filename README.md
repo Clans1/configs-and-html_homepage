@@ -31,4 +31,8 @@ i3status configured using using a web tool from: https://github.com/tlhunter/i3-
 # Nord Arch wallpaper by me:
 ![Nord arch wallpaper by me](https://raw.githubusercontent.com/clans1/homapageandi3wmconf/master/i-run-arch-btw-wallpaper.png)
 
+to do:
+1 - update the screenshots
+2 - teach how to put my qutebrowser configs
+3 - screenshot and post my nord qutebrowser
 
