@@ -36,7 +36,7 @@ i3status configured using using a web tool from: https://github.com/tlhunter/i3-
 
 to do:
 
-1 - update the screenshots
+1 - update the screenshots done
 
 2 - teach how to put my qutebrowser configs
 
