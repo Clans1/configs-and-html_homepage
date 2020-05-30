@@ -15,15 +15,15 @@ i3status configured using using a web tool from: https://github.com/tlhunter/i3-
 * Easy to configure by editing index.html and colors by editing styles.css
 * create a dir on your home to your homepage
 
-(mkdir ~/homepage)
+( $ mkdir ~/homepage )
 
 * Put index.html, favicon.png and styles.css on that dir
 
-(sudo mv index.html ~/homepage/)
+( $ sudo mv index.html ~/homepage/ )
 
-(sudo mv favicon.png ~/homepage/)
+( $ sudo mv favicon.png ~/homepage/ )
 
-(sudo mv styles.css ~/homepage/)
+( $ sudo mv styles.css ~/homepage/ )
 
 * add index.html path to your browser homepage, ex: ~/homepage/index.html
 ![Nord arch wallpaper by me](https://raw.githubusercontent.com/clans1/homapageandi3wmconf/master/homepagepreview.png)
