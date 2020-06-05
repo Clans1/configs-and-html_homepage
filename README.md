@@ -51,7 +51,11 @@ i3status configured using using a web tool from: https://github.com/tlhunter/i3-
 ![Nord arch wallpaper by me](https://raw.githubusercontent.com/clans1/homapageandi3wmconf/master/nordqutebrowser.png)
 ![Nord arch wallpaper by me](https://raw.githubusercontent.com/clans1/homapageandi3wmconf/master/nordqutebrowser1.png)
 
-## Nord wallpaper by me:
+## Nord wallpapers by me:
+
+### For Arch:
+
 ![Nord arch wallpaper by me](https://raw.githubusercontent.com/clans1/homapageandi3wmconf/master/i-run-arch-btw-wallpaper.png)
 
+### For Manjaro:
 ![Nord arch wallpaper by me](https://raw.githubusercontent.com/clans1/homapageandi3wmconf/master/manjarowallpaper.png)
