@@ -19,9 +19,9 @@ i3status configured using using a web tool from: https://github.com/tlhunter/i3-
 
 * Move index.html, favicon.png and styles.css on that dir
 
-``` ( $ sudo mv index.html ~/homepage/ )
+``` ( $ sudo mv index.html ~/homepage/ )```
 
-``` ( $ sudo mv favicon.png ~/homepage/ )
+``` ( $ sudo mv favicon.png ~/homepage/ )```
 
 ``` ( $ sudo mv styles.css ~/homepage/ )```
 
