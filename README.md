@@ -39,8 +39,6 @@ i3status configured using using a web tool from: https://github.com/tlhunter/i3-
 
 ``` ( $ sudo mv i3wmconfig ~/.config/i3/config )```
 
-![Nord arch wallpaper by me](https://raw.githubusercontent.com/clans1/homapageandi3wmconf/master/i3configpreview.png)
-![Nord arch wallpaper by me](https://raw.githubusercontent.com/clans1/homapageandi3wmconf/master/i3configpreview2.png)
 
 ## Installing nord qutebrowser
 
